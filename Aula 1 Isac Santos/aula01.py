@@ -1,0 +1,11 @@
+print('Ola, Mundo')
+print('Se ta 3 ta lindo')
+print('Tudo nosso, Nada deles')
+print('É os queridim do chefe')
+print('O dia que um dos drake perder pra spin vai virar mochilinha pra dar uma refletida')
+print('criatividade 0')
+print('Elas gamo no jeitão dos terror')
+print('nois marola de grey goose, redbull, wisk e chandon')
+print('olha a faca')
+print('Só sei que nada sei')
+
